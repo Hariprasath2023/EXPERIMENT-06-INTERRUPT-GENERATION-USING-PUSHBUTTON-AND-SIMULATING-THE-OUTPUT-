@@ -1,9 +1,9 @@
+# EXPERIMENT-06 INTERRUPT GENERATION USING PUSHBUTTON AND SIMULATING THE OUTPUT
+
 ```
 NAME : HARI PRASATH
 REG NO : 212223040055
 ```
-# EXPERIMENT-06 INTERRUPT GENERATION USING PUSHBUTTON AND SIMULATING THE OUTPUT
-
 ### Aim:
 To Interface a push button and generate an interrupt , simulate it using an led and simuate it on  proteus 
 
